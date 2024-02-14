@@ -31,4 +31,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/age-calculator.git
-![screencapture-127-0-0-1-5500-index-html-2024-02-14-19_26_32](https://github.com/mhmodfrmwi/Age-Calculator/assets/151141036/6e98c030-3fd2-430e-bfd7-9941d349a0af)
+
+
+![screencapture-127-0-0-1-5500-index-html-2024-02-14-19_26_32](https://github.com/mhmodfrmwi/Age-Calculator/assets/151141036/7fd492a4-807e-4e30-9df3-0a766eb56e61)
+
