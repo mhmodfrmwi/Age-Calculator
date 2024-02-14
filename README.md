@@ -27,11 +27,12 @@ This project is a web-based age calculator that takes user input for day, month,
 ## Screen shot
 ![screencapture-127-0-0-1-5500-index-html-2024-02-14-19_26_32](https://github.com/mhmodfrmwi/Age-Calculator/assets/151141036/5c6483ff-f023-42d2-b366-2c086074d0fd)
 
+## live-Server
+### https://age-calculator-pi-amber.vercel.app/
 ## Installation
 
 Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/mhmodfrmwi/age-calculator.git
-
 
